@@ -15,7 +15,7 @@ namespace WorkQuikr.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "This is a Description Page -Jeffer";
 
             return View();
         }
